@@ -1,0 +1,44 @@
+
+.compteur{
+   text-align: center;
+   font-size: 50px;
+   color: rgb(172, 88, 35);
+   margin-top: 30px;
+}
+.Increment{
+    text-align: center;
+    font-size: 50px;
+   
+}
+.compteur {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 32px;
+  }
+  
+  .buttonC {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 16px;
+    cursor: pointer;
+  }
+  
+  .button-blue {
+    background-color: #008CBA; /* Blue */
+  }
+  
+  .button-red {
+    background-color: #f44336; /* Red */
+  }
+  
+  .button-grey {
+    background-color: #e7e7e7;
+    color: black;
+  }
+  

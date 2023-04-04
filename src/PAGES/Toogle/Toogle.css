@@ -1,0 +1,30 @@
+.toogle{
+    text-align: center;
+}
+
+.validation{
+    font-size: xx-large;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    color: rgb(172, 88, 35);
+    font-weight: bolder;
+}
+.btnT{
+    
+    border: none;
+    
+    padding: 15px 32px;
+    text-align: center;
+    background-color: #24ae89;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+ 
+  
